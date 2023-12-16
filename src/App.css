@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.form {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+}
